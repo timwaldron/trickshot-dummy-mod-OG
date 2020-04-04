@@ -1,4 +1,8 @@
-# Trickshot Dummy Mod
+# Attention!
+I have started rewriting this mod from the ground up. [I would suggest you to use that version](https://github.com/timwaldron/trickshot-dummy-mod)  
+<br>
+
+# Trickshot Dummy Mod - Original
 This is a modification for Call of Duty: Modern Warfare 2.  
 
 I created this mod around 2012. I thought if I have this project in my GitHub it may remind me to mess around with it.
