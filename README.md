@@ -16,9 +16,10 @@ This is a very long-winded answer if you aren't familiar with Mods & Call of Dut
 
 ## Prerequisites  
 
-+ Own a copy of [Call of Duty: Modern Warfare 2](https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2/) for PC.
-+ Have the unofficial **IW4x** add-on installed.
-  - To install **IW4x** follow [this guide](https://iw4x.tumblr.com/post/161974206329/install-iw4x). IW4x adds Dedicated Server and Mod support.  
++ ~Own a copy of [Call of Duty: Modern Warfare 2](https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2/) for PC.~
++ Play Modern Warfare 2 for free at https://iw4x.org/.
+  - IW4x adds things like dedicated servers and mod support (including custom weapons and maps). View [the Wiki] for more information.
+  - To install **IW4x** follow [this guide](https://iw4x.org/installGuide.html). It's also [open source](https://github.com/IW4x/iw4x-client).
 <br>
 
 ## Installing the mod  
